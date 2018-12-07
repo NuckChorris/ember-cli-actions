@@ -1,4 +1,4 @@
-# GitHub Actions for NPM
+# GitHub Actions for Ember CLI
 
 This Action for [ember-cli](https://ember-cli.com/) enables arbitrary actions with the `ember-cli` command-line client, including deploying ember applications with [ember-cl-deploy](http://ember-cli-deploy.com/).
 
